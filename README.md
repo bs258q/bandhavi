@@ -41,7 +41,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 - **CI/CD**:               `Github Actions`, `Jenkins`,`Teamcity`, `CircleCI`
 - **Cloud AI Deployment**:             `AWS SageMaker`, `AWS bedrock`
 - **Edge AI & Hybrid Deployments**:    `NVIDIA Jetson`,
-- **LLM & RAG Implementation**:        `LangChain`, `Pinecone`, `Weaviate`, 'chromaDB`
+- **LLM & RAG Implementation**:        `LangChain`, `Pinecone`, `Weaviate`, `chromaDB`
 - **Observability & Monitoring**:      `Prometheus`, `Grafana`, `Datadog`
 
 
