@@ -108,10 +108,10 @@ Observability & Monitoring:      Prometheus, Grafana, Datadog
 ## 📣 Let's Connect
 
 Feel free to reach out to me through via email or any of the following platforms:
-- **Email**: [ravjot313@gmail.com](bs258q@gmail.com)
-- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/bandhavi-s-38b944165/)
-- **GitHub**: [Ravjot Singh](https://github.com/bs258q)
-- **Medium**: [Ravjot's Blog](https://medium.com/@sakhamuri.bandhavi)
+- **Email**: [bs258q@gmail.com](bs258q@gmail.com)
+- **LinkedIn**: [Bandhavi sakhamuri](https://www.linkedin.com/in/bandhavi-s-38b944165/)
+- **GitHub**: [Bandhavi sakhamuri](https://github.com/bs258q)
+- **Medium**: [Bandhavi sakhamuri](https://medium.com/@sakhamuri.bandhavi)
 
 ---
 
