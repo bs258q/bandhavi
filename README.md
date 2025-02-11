@@ -29,21 +29,20 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 ## Key Areas of Expertise:
 - **Statistical Programming Language:** `Python` `Numpy` `Pandas` `SciPy`, `R`
 - **Machine Learning and Deep Learning Frameworks:** `Scikit-Learn` `PyTorch` `Tensorflow`
-- **Cloud and Databases:** `AWS` 
+- **Cloud and Databases:** `AWS`, `Azure`, `GCP`
 - **Data Visualization Tools:** `Matplotlib` `Seaborn` `Tableau` `PowerBI` `Looker` `Google Analytics`
 - **AI Prowess:** `Large Language Models (LLMs)` `Retrieval Augmented Systems (RAGs)` `Fine-Tuning` `Generative AI` `Agentic AI` `Transformers` `LangChain` `GPTs` `HuggingFace` `Gemini` `Llama` `WhisperAI` `BERT` `RoBERTa` `BART` `LangGraph` `Groq` `OpenAI` `Diffusion Models` `GANs` `CGANs` `StyleGANs`
 - **Machine Learning:** `Supervised Learning` `Unsupervised Learning` `Regression` `Classification` `Random Forest` `XGBoost` `Ensemble Learning`
 - **Natural Language Processing (NLP):** `NLTK` `SpaCy` `Embedding Models`
 - **Deep Learning:** `ANNs` `CNNs` `RNNs` `LSTMs` `GRUs`
-
-Model Development:   `TensorFlow`, `PyTorch`, `Hugging Face`
-Data Engineering & ETL:   `Apache Airflow`, `Prefect`, `Kafka`
-MLOps:               `Kubeflow`, `MLflow`, `ZenML`
-CI/CD:               `Github Actions`, `Jenkins`,`Teamcity`, `CircleCI`     
-Cloud AI Deployment:             `AWS SageMaker`, `AWS bedrock`
-Edge AI & Hybrid Deployments:    `NVIDIA Jetson`,
-LLM & RAG Implementation:        `LangChain`, `Pinecone`, `Weaviate`, 'chromaDB`
-Observability & Monitoring:      `Prometheus`, `Grafana`, `Datadog`
+- **Model Development**:   `TensorFlow`, `PyTorch`, `Hugging Face`
+- **Data Engineering & ETL**:   `Apache Airflow`, `Prefect`, `Kafka`
+- **MLOps**:               `Kubeflow`, `MLflow`, `ZenML`
+- **CI/CD**:               `Github Actions`, `Jenkins`,`Teamcity`, `CircleCI`
+- **Cloud AI Deployment**:             `AWS SageMaker`, `AWS bedrock`
+- **Edge AI & Hybrid Deployments**:    `NVIDIA Jetson`,
+- **LLM & RAG Implementation**:        `LangChain`, `Pinecone`, `Weaviate`, 'chromaDB`
+- **Observability & Monitoring**:      `Prometheus`, `Grafana`, `Datadog`
 
 
 ---
